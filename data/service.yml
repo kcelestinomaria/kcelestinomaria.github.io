@@ -1,0 +1,24 @@
+enable  : true
+title   : WHAT WE LOVE TO DO
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
+image   : images/team.jpg
+serviceItem :
+  - icon  : ion-ios-paper-outline
+    title : FILM-MAKING
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-pint-outline
+    title : CREW REPRESENTATION
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-paper-outline
+    title : ROYALTY'S ENFORCING
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+
+  - icon  : ion-ios-paper-outline
+    title : CREATIVES LEGAL BACKING
+    description: >
+      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
